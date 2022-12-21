@@ -1443,6 +1443,7 @@ sub {
   font-weight: bold;
   font-size: 5rem;
   margin-left: 5%;
+  margin-bottom: 0;
 }
 
 img {
