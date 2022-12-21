@@ -7,7 +7,7 @@ const Footer = () => {
         marginRight: '20px',
     }
     return <footer className="footer">
-        <span style={styles}>{`Copyright © MPCLab ${year}`}</span>
+        <span style={styles}>{`⚆⚉ Copyright © MPC Lab ${year} ⚇⚈`}</span>
         <a href="https://github.com/alan890104/mpclab-portal" target="_blank"><FaGithub size={20} /></a>
     </footer >;
 };

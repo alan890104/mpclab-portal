@@ -58,7 +58,7 @@ function App() {
         <header>
           <div className='myheader'>
             <img src={logo} alt="logo" className='myimg' />
-            <h1 className='headerText'>MPCLab Portal</h1>
+            <h1 className='headerText'> Portal ▪️ MPC Lab </h1>
           </div>
           <Linktree
             class='title'
